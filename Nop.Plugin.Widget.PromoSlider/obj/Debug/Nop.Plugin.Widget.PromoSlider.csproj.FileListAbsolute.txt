@@ -1,0 +1,1 @@
+D:\MyProjects\nopCommerce_3.60_Source\Nop.Plugin.Widget.PromoSlider\obj\Debug\Nop.Plugin.Widget.PromoSlider.csprojResolveAssemblyReference.cache
